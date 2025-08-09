@@ -1,3 +1,5 @@
+"use client";
+
 export const metadata = {{ title: "Buy Instagram Likes — Likes.io" }};
 
 export default function Page() {{
